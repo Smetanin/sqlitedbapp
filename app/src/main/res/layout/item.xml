@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/border_ui"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tvFld1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_marginLeft="10dp"
+        android:text=""
+        android:textSize="18sp">
+    </TextView>
+
+    <TextView
+        android:id="@+id/tvFld2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_marginLeft="10dp"
+        android:text=""
+        android:textSize="18sp">
+    </TextView>
+    <TextView
+        android:id="@+id/tvFld3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_marginLeft="10dp"
+        android:text=""
+        android:textSize="18sp">
+    </TextView>
+    <TextView
+        android:id="@+id/tvFld4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_marginLeft="10dp"
+        android:text=""
+        android:textSize="18sp">
+    </TextView>
+    <TextView
+        android:id="@+id/tvFld5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_marginLeft="10dp"
+        android:text=""
+        android:textSize="18sp">
+    </TextView>
+    <TextView
+        android:id="@+id/tvFld6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_marginLeft="10dp"
+        android:text=""
+        android:textSize="18sp">
+    </TextView>
+</LinearLayout>
